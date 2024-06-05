@@ -175,4 +175,24 @@ innovative and intelligent tools for profiling Java and .NET applications.
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/stmihajlo">
+                    <img src="https://avatars.githubusercontent.com/u/90989431?v=4" width="100;" alt="stmihajlo"/>
+                    <br />
+                    <sub><b>stmihajlo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ramackersjp">
+                    <img src="https://avatars.githubusercontent.com/u/145814971?v=4" width="100;" alt="ramackersjp"/>
+                    <br />
+                    <sub><b>J.P.</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators -end -->
