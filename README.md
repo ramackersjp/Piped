@@ -167,12 +167,12 @@ YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/j
 and [YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/),
 innovative and intelligent tools for profiling Java and .NET applications.
 
+## Contributors
+
+<!-- readme: <username1>,collaborators,<username2>,contributors,<username3>/- -start -->
+<!-- readme: <username1>,collaborators,<username3>,contributors,<username3>/- -end -->
+
 ## Collaborators
 
 <!-- readme: collaborators -start -->
 <!-- readme: collaborators -end -->
-
-## Contributors
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
