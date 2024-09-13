@@ -39,8 +39,8 @@ importers:
         specifier: 9.13.1
         version: 9.13.1(vue@3.4.33(typescript@5.5.2))
       vue-router:
-        specifier: 4.4.0
-        version: 4.4.0(vue@3.4.33(typescript@5.5.2))
+        specifier: 4.4.5
+        version: 4.4.5(vue@3.4.33(typescript@5.5.2))
     devDependencies:
       '@iconify-json/fa6-brands':
         specifier: 1.1.21
@@ -1299,6 +1299,9 @@ packages:
 
   '@vue/devtools-api@6.6.3':
     resolution: {integrity: sha512-0MiMsFma/HqA6g3KLKn+AGpL1kgKhFWszC9U29NfpWK5LE7bjeXxySWJrOJ77hBz+TBrBQ7o4QJqbPbqbs8rJw==}
+
+  '@vue/devtools-api@6.6.4':
+    resolution: {integrity: sha512-sGhTPMuXqZ1rVOk32RylztWkfXTRhuS7vgAKv0zjqk8gbsHkJ7xfFf+jbySxt7tWObEJwyKaHMikV/WGDiQm8g==}
 
   '@vue/reactivity@3.4.33':
     resolution: {integrity: sha512-B24QIelahDbyHipBgbUItQblbd4w5HpG3KccL+YkGyo3maXyS253FzcTR3pSz739OTphmzlxP7JxEMWBpewilA==}
@@ -2836,8 +2839,8 @@ packages:
     peerDependencies:
       vue: ^3.0.0
 
-  vue-router@4.4.0:
-    resolution: {integrity: sha512-HB+t2p611aIZraV2aPSRNXf0Z/oLZFrlygJm+sZbdJaW6lcFqEDQwnzUBXn+DApw+/QzDU/I9TeWx9izEjTmsA==}
+  vue-router@4.4.5:
+    resolution: {integrity: sha512-4fKZygS8cH1yCyuabAXGUAsyi1b2/o/OKgu/RUb+znIYOxPRxdkytJEx+0wGcpBE1pX6vUgh5jwWOKRGvuA/7Q==}
     peerDependencies:
       vue: ^3.2.0
 
@@ -4386,6 +4389,8 @@ snapshots:
       '@vue/shared': 3.4.33
 
   '@vue/devtools-api@6.6.3': {}
+
+  '@vue/devtools-api@6.6.4': {}
 
   '@vue/reactivity@3.4.33':
     dependencies:
@@ -6002,9 +6007,9 @@ snapshots:
       '@vue/devtools-api': 6.6.3
       vue: 3.4.33(typescript@5.5.2)
 
-  vue-router@4.4.0(vue@3.4.33(typescript@5.5.2)):
+  vue-router@4.4.5(vue@3.4.33(typescript@5.5.2)):
     dependencies:
-      '@vue/devtools-api': 6.6.3
+      '@vue/devtools-api': 6.6.4
       vue: 3.4.33(typescript@5.5.2)
 
   vue@3.4.33(typescript@5.5.2):
