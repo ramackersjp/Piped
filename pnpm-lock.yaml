@@ -43,11 +43,11 @@ importers:
         version: 4.4.0(vue@3.4.33(typescript@5.5.2))
     devDependencies:
       '@iconify-json/fa6-brands':
-        specifier: 1.1.21
-        version: 1.1.21
+        specifier: 1.2.1
+        version: 1.2.1
       '@iconify-json/fa6-solid':
-        specifier: 1.1.23
-        version: 1.1.23
+        specifier: 1.2.1
+        version: 1.2.1
       '@intlify/unplugin-vue-i18n':
         specifier: 4.0.0
         version: 4.0.0(rollup@2.79.1)(vue-i18n@9.13.1(vue@3.4.33(typescript@5.5.2)))
@@ -902,11 +902,11 @@ packages:
     resolution: {integrity: sha512-93zYdMES/c1D69yZiKDBj0V24vqNzB/koF26KPaagAfd3P/4gUlh3Dys5ogAK+Exi9QyzlD8x/08Zt7wIKcDcA==}
     deprecated: Use @eslint/object-schema instead
 
-  '@iconify-json/fa6-brands@1.1.21':
-    resolution: {integrity: sha512-NS/BszVo8fUVpzA7/5b9tmkHzisZSUlm8kjdznk1Bux5p5QH3BxHZXrZUM5QsT90/7+omQC0EKukwf7H7nujZg==}
+  '@iconify-json/fa6-brands@1.2.1':
+    resolution: {integrity: sha512-b/o9bDLZCP8qJV2dydewH+OWrpqmX94b7jHYnqzKaVpbuRRQX/qA9AROsy7rqHYup8fN2fCElQHvm6OYFmjkEA==}
 
-  '@iconify-json/fa6-solid@1.1.23':
-    resolution: {integrity: sha512-wiQqnNBm8FlwmPK2KK6d+W7u2fKcqQR1kfILTR817WjNzI/pjRJqqI9kAx/uys2u1L79/Myg4trdCIy0gInObg==}
+  '@iconify-json/fa6-solid@1.2.1':
+    resolution: {integrity: sha512-4H57tDC/xEhy4s7HPSRFuXQ/8gwtIEg33ak+iuiBoQc7kRh8DS6LXSCh4Uh3QNvTcNLDXnwqfQVhPwo0gpInMA==}
 
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
@@ -1697,6 +1697,7 @@ packages:
   eslint@8.57.0:
     resolution: {integrity: sha512-dZ6+mexnaTIbSBZWgou51U6OmzIhYM2VcNdtiTtI7qPNZm35Akpr0f6vtw3w1Kmn5PYo+tZVfh13WrhpS6oLqQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   espree@9.6.1:
@@ -3892,11 +3893,11 @@ snapshots:
 
   '@humanwhocodes/object-schema@2.0.3': {}
 
-  '@iconify-json/fa6-brands@1.1.21':
+  '@iconify-json/fa6-brands@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/fa6-solid@1.1.23':
+  '@iconify-json/fa6-solid@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
